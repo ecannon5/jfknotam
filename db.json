@@ -1,8 +1,36 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 99" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {"all": "!JFK 03/358 JFK RWY 13R/31L CLSD 1903100500-1903101000\nCREATED: 09 Mar 2019 21:04:00 \nSOURCE: JFK",
+    "id": "!JFK 03/358",
+    "location": "KJFK",
+    "isICAO": false,
+    "key": "!JFK 03/358-KJFK",
+    "type": "airport",
+    "StateCode": "USA",
+    "StateName": "United States of America",
+    "criticality": -1},
+    {
+    "all": "!JFK 03/357 JFK RWY 13L/31R CLSD 1903100500-1903101000\nCREATED: 09 Mar 2019 21:02:00 \nSOURCE: JFK",
+    "id": "!JFK 03/357",
+    "location": "KJFK",
+    "isICAO": false,
+    "key": "!JFK 03/357-KJFK",
+    "type": "airport",
+    "StateCode": "USA",
+    "StateName": "United States of America",
+    "criticality": -1
+  },
+  {
+    "all": "!JFK 03/356 JFK RWY 31L LEAD OFF LGT AT TWY PD OUT OF SERVICE 1903091817-1909301000\nCREATED: 09 Mar 2019 18:17:00 \nSOURCE: JFK",
+    "id": "!JFK 03/356",
+    "location": "KJFK",
+    "isICAO": false,
+    "key": "!JFK 03/356-KJFK",
+    "type": "airport",
+    "StateCode": "USA",
+    "StateName": "United States of America",
+    "criticality": -1
+  }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
